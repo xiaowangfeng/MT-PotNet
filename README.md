@@ -105,7 +105,7 @@ python main.py --config configs/potnet.yaml --output_dir xxx --checkpoint xxx --
 and change the target name as `target` in `potnet.yaml` such like
 
 ```yaml
-dataset: dft_3d
+dataset:dft_3d_2021
 target: target
 ```
 
@@ -126,8 +126,7 @@ then the processed file will be read automatically.
 
 ## Acknowledgement
 
-The underlying training part is based on [ALIGNN](https://github.com/usnistgov/alignn) [2] and the incomplete Bessel Function is based on [ScaFaCoS](https://github.com/scafacos/scafacos) [3]. This work was supported in part by National Science Foundation grants IIS-1908220, CCF-1553281, IIS-1812641, DMR-2119103, and IIS-2212419, and National Institutes of Health grant U01AG070112.
-
+The underlying training part is based on [PotNet]([https://github.com/usnistgov/alignn](https://github.com/divelab/AIRS/tree/main/OpenMat/PotNet)).
 
 
 
