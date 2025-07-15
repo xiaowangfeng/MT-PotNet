@@ -1,4 +1,4 @@
-name: potnet
+name: mtpotnet
 channels:
   - pytorch
   - conda-forge
