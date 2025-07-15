@@ -126,7 +126,7 @@ then the processed file will be read automatically.
 
 ## Acknowledgement
 
-The underlying training part is based on [PotNet]([https://github.com/usnistgov/alignn](https://github.com/divelab/AIRS/tree/main/OpenMat/PotNet)).
+The underlying training part is based on [PotNet](https://github.com/divelab/AIRS/tree/main/OpenMat/PotNet).
 
 
 
